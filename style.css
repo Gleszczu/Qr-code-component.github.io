@@ -30,7 +30,7 @@
       flex-direction: column;
       align-items: center;
     }
-    h2{
+    h1{
       color: var(--dark-blue);
       font-size: 30px;
       margin-bottom: 20px;
